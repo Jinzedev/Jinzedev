@@ -11,7 +11,7 @@
 <br/>
 
 ## Programming Languages I use
-![My Skills](https://skillicons.dev/icons?i=java,kotlin,cs)
+![My Skills](https://skillicons.dev/icons?i=java,kotlin,cs,rust)
 ## Operating System
 
 ![My Skills](https://skillicons.dev/icons?i=windows,linux)
